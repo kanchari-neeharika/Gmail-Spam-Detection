@@ -37,3 +37,8 @@ Logistic Regression classifier is suitable for spam detection
 TF-IDF is helpful in improving the quality of the features
 Frequent words in spam emails include 'urgent,' 'win,' 'free,' etc.
 The 'doubtful' category is helpful in eliminating false predictions
+
+**Images**
+<img width="1225" height="782" alt="image" src="https://github.com/user-attachments/assets/bab96b1d-b3d0-4152-aead-299c4dbcbfe1" />
+
+
